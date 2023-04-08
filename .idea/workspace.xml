@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69998a43-1225-4339-ac8e-5f38b899a6fa" name="Changes" comment="ssm project init">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69998a43-1225-4339-ac8e-5f38b899a6fa" name="Changes" comment="ssm project init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot_ssm" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -124,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680962437061</updated>
       <workItem from="1680962438097" duration="2654000" />
-      <workItem from="1680965103834" duration="1422000" />
+      <workItem from="1680965103834" duration="1856000" />
     </task>
     <task id="LOCAL-00001" summary="ssm project init">
       <created>1680966000606</created>
@@ -140,7 +138,63 @@
       <option name="project" value="LOCAL" />
       <updated>1680966084129</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ssm project init">
+      <created>1680966549783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966549783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ssm project init">
+      <created>1680966560697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966560697</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ssm project init">
+      <created>1680966564732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966564732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ssm project init">
+      <created>1680966604995</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966604995</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ssm project init">
+      <created>1680966626380</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966626380</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ssm project init">
+      <created>1680966628943</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966628943</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ssm project init">
+      <created>1680966646835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966646835</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ssm project init">
+      <created>1680966671388</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680966671388</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
