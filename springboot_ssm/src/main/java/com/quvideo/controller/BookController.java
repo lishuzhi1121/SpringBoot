@@ -16,7 +16,7 @@ public class BookController {
     @PostMapping
     public Result save(@RequestBody Book book) {
         boolean success = bookService.save(book);
-        return new Result((success ? Code.SAVE_OK : Code.SAVE_ERR), success);
+        return new Result((success ? Code.SAVE_OK : Code.SAVE_ERR), "保存成功", success);
     }
 
     @DeleteMapping("/{id}")

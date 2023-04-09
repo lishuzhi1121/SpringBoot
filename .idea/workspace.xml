@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69998a43-1225-4339-ac8e-5f38b899a6fa" name="Changes" comment="ssm project init" />
+    <list default="true" id="69998a43-1225-4339-ac8e-5f38b899a6fa" name="Changes" comment="ssm project init">
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/config/SpringbootConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/controller/ProjectExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/controller/filter/HttpServletRequestReplacedFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/controller/filter/ReHttpServletRequestWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/controller/interceptor/ProjectInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/exception/BusinessException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/exception/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/utils/HttpHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/service/impl/BookServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_ssm/src/main/java/com/quvideo/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_ssm/src/test/java/com/quvideo/service/BookServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_ssm/src/test/java/com/quvideo/service/BookServiceTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,12 +66,17 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15625&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f732a56f43e0f64366975a56e5cf4aef&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/springboot_ssm/src/main/resources/static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.quvideo.exception" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.SpringbootSsmApplication">
@@ -122,7 +142,10 @@
       <option name="presentableId" value="Default" />
       <updated>1680962437061</updated>
       <workItem from="1680962438097" duration="2654000" />
-      <workItem from="1680965103834" duration="1856000" />
+      <workItem from="1680965103834" duration="3241000" />
+      <workItem from="1680973186819" duration="38000" />
+      <workItem from="1681049344384" duration="1044000" />
+      <workItem from="1681055431495" duration="3312000" />
     </task>
     <task id="LOCAL-00001" summary="ssm project init">
       <created>1680966000606</created>
@@ -213,6 +236,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/springboot_ssm" />
+    </ignored-roots>
     <MESSAGE value="ssm project init" />
     <option name="LAST_COMMIT_MESSAGE" value="ssm project init" />
   </component>
